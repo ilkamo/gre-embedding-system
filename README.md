@@ -1,1 +1,1 @@
-# gre_embedding_system
+# gre-embedding-system
